@@ -76,4 +76,5 @@ Join our (https://x.com/AGENT_PRISMXBT) for support and discussions!
 
 ---
 
-Made with ❤️ by [@AGENT_PRISMXBT]([https://x.com/AGENT_PRISMXBT]) .
+Made with ❤️ by [@AGENT_PRISMXBT]([https://x.com/AGENT_PRISMXBT)
+community [TELEGRAM](https://t.me/prismagent)
