@@ -72,9 +72,9 @@ Once all containers show green status, access the Agent UI at http://localhost:3
 
 ## Support & Community
 
-Join our (https://x.com/AGENT_PRISMXBT) for support and discussions!
+Join our [twitter/x](https://x.com/AGENT_PRISMXBT) for support and discussions!
 
 ---
 
-Made with ❤️ by [@AGENT_PRISMXBT]([https://x.com/AGENT_PRISMXBT)
+Made with ❤️ by [AGENT_PRISMXBT]([https://x.com/AGENT_PRISMXBT)
 community [TELEGRAM](https://t.me/prismagent)
