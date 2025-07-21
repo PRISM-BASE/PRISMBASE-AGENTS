@@ -1,5 +1,5 @@
 # PRISM AI Agent
-Join our (https://x.com/AGENT_PRISMXBT)
+[Join](https://x.com/AGENT_PRISMXBT)
 An opinionated, batteries-included, ElizaOS distribution designed for ease of development and secure, scalable deployments.
 
 ## Overview
@@ -77,4 +77,3 @@ Join our [twitter/x](https://x.com/AGENT_PRISMXBT) for support and discussions!
 ---
 
 Made with ❤️ by [AGENT_PRISMXBT]([https://x.com/AGENT_PRISMXBT)
-community [TELEGRAM](https://t.me/prismagent)
