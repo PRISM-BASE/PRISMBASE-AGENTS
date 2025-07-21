@@ -1,6 +1,7 @@
 # PRISM AI Agent
 [Join](https://x.com/AGENT_PRISMXBT)
-An opinionated, batteries-included, ElizaOS distribution designed for ease of development and secure, scalable deployments.
+
+Prism An opinionated, batteries-included, ElizaOS distribution designed for ease of development and secure, scalable deployments.
 
 ## Overview
 
